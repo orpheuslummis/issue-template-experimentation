@@ -1,5 +1,4 @@
-blank_issues_enabled: false
 contact_links:
-  - name: TBD
+  - name: Discussion
     url: https://github.com/orpheuslummis/issue-template-experimentation/discussions
-    about: Please ask and answer questions here.
+    about: To discuss DefraDB or ask questions.
