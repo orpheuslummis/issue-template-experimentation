@@ -1,5 +1,5 @@
 title: "[Feature request] "
-labels: ["Feature request"]
+labels: ["Submit a request for a new feature or improvement."]
 body:
   - type: textarea
     id: problem
