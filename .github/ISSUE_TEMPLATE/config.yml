@@ -1,4 +1,7 @@
 contact_links:
+  - name: Feature request
+    url: https://github.com/orpheuslummis/issue-template-experimentation/discussions/new?category=feature-request
+    about: To request a new feature or improvement.
   - name: Discussion
     url: https://github.com/orpheuslummis/issue-template-experimentation/discussions
     about: To discuss DefraDB or ask questions.
